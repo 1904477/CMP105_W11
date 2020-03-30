@@ -16,7 +16,7 @@ public:
 	void handleInput(float dt);
 	void update(float dt);
 	void render();
-
+	
 private:
 	// Default functions for rendering to the screen.
 	void beginDraw();
